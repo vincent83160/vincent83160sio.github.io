@@ -1,7 +1,7 @@
 # vincent83160sio.github.io
-<h1>Portfolio de Vincent Gary, apprenti en BTS SIO option SLAM<h1>
-  ## Objectifs 
-  <h3>1.Mettre en oeuvre les technologies web pour créer et hébergé mon portfolio<h3>
+# Portfolio de Vincent Gary, apprenti en BTS SIO option SLAM
+## Objectifs 
+### 1.Mettre en oeuvre les technologies web pour créer et hébergé mon portfolio
 
 
 
