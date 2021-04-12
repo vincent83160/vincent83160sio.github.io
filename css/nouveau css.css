@@ -1,0 +1,16 @@
+#photoID{
+    height:20em;
+    width:24em;
+    float:left;
+}
+#présentation{
+    display:flex; 
+    font-size: 1.5em;
+    padding-left: 1em;
+}
+.jumbotron{
+    padding-bottom:10em;
+}
+#bouton{
+     margin-left: 1em;
+}
