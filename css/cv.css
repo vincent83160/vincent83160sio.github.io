@@ -64,7 +64,7 @@ body { padding-top: 50px; }
 * Me contacter
 ******************************************/
 .meContacter { clear: both; }
-.meContacter .details { width: 100%; margin-left: 10px; margin-top: 3px; font-size: 1.5em;
+.meContacter .details { width: 100%; margin-left: 10px; margin-top: 4mm; font-size: 1.5em;
                         font-weight: 700; justify-content: space-between;}
 .contact-icon { filter: grayscale(1); -webkit-filter: grayscale(1);
                 -moz-filter: grayscale(1); -ms-filter: grayscale(1);
@@ -86,4 +86,15 @@ body { padding-top: 50px; }
 
 .titre{
     margin-left:25px;
+}
+
+.mt11mm{
+    margin-top:11mm;
+}
+/*
+.meContacter{
+    margin-top:10mm;
+}*/
+.ml35{
+    margin-left:35px;
 }
